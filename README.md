@@ -1,1 +1,1 @@
-# mini-quiz-OliwierZdanek
+# mini-quiz-zdanek
